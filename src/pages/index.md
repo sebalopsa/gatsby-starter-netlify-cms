@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Otro titulo
 image: /img/cubes.jpg
 heading: Interesante Página
 subheading: Yeah
